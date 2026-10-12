@@ -1,5 +1,4 @@
 # PortSwigger Web Security Academy — Progress Tracker
-
 ## Purpose
 Track the labs I complete while learning web application security and preparing for VAPT roles.
 
